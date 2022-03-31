@@ -1,4 +1,6 @@
 {
-	[{'book':'The Hobbit'},{'author':'J.R.R. Tolkien'}],
-	[{'book':'Dune'},{'author':'Frank Herbert'}]
+"entries":[
+	[{"book":"The Hobbit"},{"author":"J.R.R. Tolkien"}],
+	[{"book":"Dune"},{"author":"Frank Herbert"}]
+]
 }
