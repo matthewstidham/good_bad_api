@@ -27,9 +27,9 @@ def main():
     print(entries[1]['author'])
     print(entries[0]['book'])
 
-    for x in entries:
-        if x['book'] == 'Dune':
-            print(x['author'])
+    for entry in entries:
+        if entry['book'] == 'Dune':
+            print(entry['author'])
     
 
 
