@@ -18,10 +18,11 @@ def dict_merger(entries):
 
 def main():
     d = json.load(open('bad_api.json'))
-    entries = list()
-    for entry in d['entries']:
-        entries.append(dict_merger(entry))
-    
+    # entries = list()
+    # for entry in d['entries']:
+    #     entries.append(dict_merger(entry))
+    entries = [dict_merger(entry) for entry in d['entries']]
+
     print(entries)
     print(entries[1]['author'])
     print(entries[0]['book'])
