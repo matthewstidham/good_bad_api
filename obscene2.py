@@ -9,12 +9,12 @@ def main():
     print(entries)
 
     for entry in entries[1]:
-        if list(entry.keys())[0] == 'author':
+        if 'author' in entry.keys():
             print(entry['author'])
 
 
     for entry in entries[0]:
-        if list(entry.keys())[0] == 'book':
+        if 'book' in entry.keys():
             print(entry['book'])
 
     for entry in entries:
