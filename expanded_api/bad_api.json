@@ -1,0 +1,38 @@
+{"entries":
+    [
+        [{"book": "The Hobbit"},
+    {"author": "J.R.R. Tolkien"},
+    {"genre": "Fantasy"},
+    {"copyright": 1937},
+    {"country": "United Kingdom"}
+],
+    [
+        {"book": "Dune"},
+    {"author": "Frank Herbert"},
+    {"genre": "Science Fiction"},
+    {"copyright": 1965},
+    {"country": "United States"}
+],
+    [
+        {"book": "2001: A Space Odyssey"},
+    {"author": "Arthur C. Clarke"},
+    {"genre": "Science Fiction"},
+    {"copyright": 1968},
+    {"country": "United Kingdom"}
+],
+    [
+        {"book": "God Emperor of Dune"},
+    {"author": "Frank Herbert"},
+    {"genre": "Science Fiction"},
+    {"copyright": 1981},
+    {"country": "United States"}
+],
+    [
+        {"book": "Anne of Green Gables"},
+    {"author": "Lucy Maud Montgomery"},
+    {"genre": "Novel"},
+    {"copyright": 1908},
+    {"country": "Canada"}
+    ]
+]
+}
